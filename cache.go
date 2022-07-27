@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/chenyahui/gin-cache/persist"
 	"github.com/gin-gonic/gin"
+	"github.com/hare85/gin-cache/persist"
 	"golang.org/x/sync/singleflight"
 )
 
